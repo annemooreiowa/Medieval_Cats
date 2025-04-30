@@ -1,7 +1,9 @@
 field,display_name,browse_link,external_link
 title,Title,
+relatedwork, Related Work
 creator,Creator,
 date,Date Created,
+culture,Culture
 description,Description,
 subject,Subjects,true
 location,Location
@@ -10,6 +12,11 @@ longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
+dimensions,Dimensions
+materials_and_techniques, MAterials and Techniques
 format,Format,
+file_size, File Size
+digitization_date, Digitization Date
 rights,Rights,
 rightsstatement,Rights Statement,,true
+source_link,Source Link,,true
