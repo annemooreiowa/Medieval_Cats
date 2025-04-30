@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-subject,Manuscript Genre,true,,Manuscript Genre
+subject,Manuscript Genre,true
 location,,true
 type,Work Type,,,
