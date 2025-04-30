@@ -10,7 +10,7 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-type,Type,
+type, Work Type,
 dimensions,Dimensions
 materials_and_techniques, Materials and Techniques
 format,Format,
