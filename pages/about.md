@@ -13,4 +13,3 @@ credits: true
 
 A collection of miniatures, marginalia, and other illuminations depicting cats in medieval manuscripts. This collection is for educational purposes only.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
